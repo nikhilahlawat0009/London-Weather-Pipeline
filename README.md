@@ -1,0 +1,1 @@
+A modern web application built using Flask, Bootstrap, and Chart.js, allowing users to retrieve real-time weather data for cities across the UK. The app dynamically displays weather details such as temperature, humidity, wind speed, and weather conditions. Additionally, it provides a graphical visualization of temperature and humidity.
