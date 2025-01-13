@@ -1,0 +1,32 @@
+1. Prerequisites
+Python 3.x installed on your system.
+OpenWeather API key (sign up for a free account here).
+
+2. Clone the Repository
+Clone this project to your local machine:
+
+bash
+Copy code
+git clone https://github.com/yourusername/uk-weather-app.git
+cd uk-weather-app
+
+3. Install Required Libraries
+Install Flask and Requests:
+
+bash
+Copy code
+pip install flask requests
+
+4. Set Your API Key
+Replace API_KEY in the app.py file with your OpenWeather API key:
+
+python
+Copy code
+API_KEY = "your_openweather_api_key"
+5. Run the App
+Run the Flask app:
+
+bash
+Copy code
+python app.py
+The app will start on http://127.0.0.1:5000/. Open this link in your browser.
