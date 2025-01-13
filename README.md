@@ -1,1 +1,18 @@
-A modern web application built using Flask, Bootstrap, and Chart.js, allowing users to retrieve real-time weather data for cities across the UK. The app dynamically displays weather details such as temperature, humidity, wind speed, and weather conditions. Additionally, it provides a graphical visualization of temperature and humidity.
+Overview
+This Flask application provides real-time weather information for major cities in the UK. Users can select a city from a dropdown menu and fetch weather data including temperature, humidity, wind speed, and general conditions. The app uses the OpenWeather API to retrieve live data.
+
+Features
+Real-time weather updates for major UK cities.
+User-friendly interface with a dropdown menu for city selection.
+Dynamic display of weather details including:
+Temperature
+Humidity
+Wind speed
+Weather description
+Built with Flask for the backend and jQuery for interactive functionality.
+
+Technologies Used
+Backend: Flask (Python)
+Frontend: HTML, jQuery
+API: OpenWeather API
+Development Environment: Jupyter Notebook compatible
